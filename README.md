@@ -6,3 +6,8 @@ _git repsotory
 _ssh key
 ## woking Things Out
 *pushing and relenting in this practice of devOps*
+## My Development Goals
+
+- Practise Git branching and merging.
+- Learn Linux system administration.
+- Build CI/CD pipelines.
